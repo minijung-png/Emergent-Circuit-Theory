@@ -81,7 +81,7 @@ Provenance evidence (archives + hashes) is provided for public artifacts.
 ## Development Timeline (updated)
 
 |Date	|Event |
-|:--------------------|-------------:|
+|:----------|:----------|
 |2025‑07‑29	| Initial NX‑ReAG technical draft uploaded |
 |2025‑08‑**	| Repository restructuring for public‑neutral mode |
 |2025‑08‑** |	Sica technology confirmed under national strategic classification (code noted in internal records) |
