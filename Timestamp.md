@@ -3,4 +3,4 @@
 > All contents are preserved for research and timestamp purposes, and are uploaded to the public repository accordingly.
 
 
-Official public release: **August 13, 2025**
+Official public release: **July 13, 2025**
