@@ -17,13 +17,13 @@ and mathematically isomorphic architectures in emerging AI design.
 
 ## Repository Structure
 
-- docs/ : Public-facing HTML files and transparency notices
+- docs : Public-facing HTML files and transparency notices
 
-- papers/ : Published papers and technical manuscripts
+- papers : Published papers and technical manuscripts
 
-- schemas/ : Mathematical models, functional diagrams, circuit logic (public-safe subset)
+- schemas : Mathematical models, functional diagrams, circuit logic (public-safe subset)
 
-- archives/ : Timestamp records and structural snapshots
+- archives : Timestamp records and structural snapshots
 
 ---
 
@@ -35,10 +35,9 @@ and mathematically isomorphic architectures in emerging AI design.
 
 - Structured token propagation and trace calibration
 
-- Formalization of transformer-based alignment mechanisms
-*(under active experimentation)*
-- Resonant Memory Trace Architecture (RMT-Arch)
+- Formalization of transformer-based alignment mechanisms *(under active experimentation)*
 
+- Resonant Memory Trace Architecture (RMT-Arch)
 
 - Multi‑phase emergent circuit alignment (phase/velocity/consistency orchestration)
 
@@ -52,7 +51,7 @@ All public files in this repository adopt minimal-disclosure policy and are prot
 
 - Archive snapshots via the Wayback Machine
 
-- Independent hash-based trace validation (/archives checksums)
+- Independent hash-based trace validation (archives checksums)
 
 - Access transparency: non-invasive analytics(non-tracking) + anomaly watch (country-of-origin patterning)
 
@@ -70,11 +69,11 @@ Documents describe concepts, interfaces, and high-level workflows. They do not r
 
 To ensure transparency and safety:
 
-Public materials focus on concepts, interfaces, and neutral summaries.
+- Public materials focus on concepts, interfaces, and neutral summaries.
 
-Core circuit alignment, interference handling, and parameterization remain private until further notice.
+- Core circuit alignment, interference handling, and parameterization remain private until further notice.
 
-Provenance evidence (archives + hashes) is provided for public artifacts.
+- Provenance evidence (archives + hashes) is provided for public artifacts.
 
 ---
 
@@ -94,14 +93,18 @@ Note: Public scope here follows patent timelines. Detailed implementations are w
 
 ## Disclosure Scope
 
-- Included
+- **Included**
   - Concept overviews, controlled diagrams, neutral experimental summaries
+    
   - Draft interface/format proposals suitable for community review
+  
   - Public notices, release notes, and archive proofs
 
-- Excluded
+- **Excluded**
   - Core circuit alignment algorithms (Sica internals)
+
   - Phase/velocity/consistency tuning parameters
+
   - Raw experiment logs, datasets, and reproducible pipelines
 
 ---
@@ -109,6 +112,7 @@ Note: Public scope here follows patent timelines. Detailed implementations are w
 ## Licensing & Access
 
 - Documents and figures: Non‑commercial use only, no derivatives (see LICENSE)
+
 - Code samples: not provided here (interfaces may be documented in docs/ or spec/ as text)
 
 ---
@@ -116,8 +120,11 @@ Note: Public scope here follows patent timelines. Detailed implementations are w
 ## Contact & Provenance
 
 - Public Research Statement: https://minjung-png.github.io
+  
 - E-mail : 2023ppcc@gmail.com
+  
 - Archive Proofs: see /archives directory
+
 - Security/Reports: submit via repository issues (public‑safe details only)
 
 ---
