@@ -37,7 +37,7 @@ and mathematically isomorphic architectures in emerging AI design.
 
 - Formalization of transformer-based alignment mechanisms *(under active experimentation)*
 
-- Resonant Memory Trace Architecture (RMT-Arch)
+- Resonant Memory Trace Architecture (RMT-Arch) *(under active experimentation)*
 
 - Multi‑phase emergent circuit alignment (phase/velocity/consistency orchestration)
 
@@ -114,6 +114,8 @@ Note: Public scope here follows patent timelines. Detailed implementations are w
 - Documents and figures: Non‑commercial use only, no derivatives (see LICENSE)
 
 - Code samples: not provided here (interfaces may be documented in docs/ or spec/ as text)
+
+- Request for exceptions may be reviewed case-by-case under NDA
 
 ---
 
