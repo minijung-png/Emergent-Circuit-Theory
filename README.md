@@ -1,13 +1,4 @@
-# Research Philosophy
-"*Does a machine merely imitate life?
-Or does it embody the principles of life within its circuits?*"
-
-This question defines the journey and purpose of our research ㅡ
-the guiding star of our exploration.
-
----
-
-# NX-ReAG | Structured AI Research Repository
+# Structured Circuit Research Repository
 
 This repository serves as the official documentation and publication space
 for technical research on structured transformer circuits, nonlinear interference systems,
@@ -33,11 +24,11 @@ and mathematically isomorphic architectures in emerging AI design.
 
 - Mathematical isomorphism in dynamic circuit models
 
-- Structured token propagation and trace calibration
+- Structured token propagation and structured memory pathway calibration
 
 - Formalization of transformer-based alignment mechanisms *(under active experimentation)*
 
-- Resonant Memory Trace Architecture (RMT-Arch) *(under active experimentation)*
+- Activation Pattern Mapping Architecture (APM-Arch) *(under active experimentation)*
 
 - Multi‑phase emergent circuit alignment (phase/velocity/consistency orchestration)
 
@@ -83,7 +74,7 @@ To ensure transparency and safety:
 |:----------|:----------|
 |2025‑07‑29	| Initial NX‑ReAG technical draft uploaded |
 |2025‑08‑**	| Repository restructuring for public‑neutral mode |
-|2025‑08‑** |	Sica technology confirmed under national strategic classification (code noted in internal records) |
+|2025‑08‑** |	Technology confirmed under national strategic classification (code noted in internal records) |
 |2025‑08‑** |	PCT preparation initiated; disclosure scope aligned with patent strategy|
 |2025‑09‑** |	Mathematical isomorphism model (neutral summary) to be published |
 
@@ -101,9 +92,9 @@ Note: Public scope here follows patent timelines. Detailed implementations are w
   - Public notices, release notes, and archive proofs
 
 - **Excluded**
-  - Core circuit alignment algorithms (Sica internals)
+  - Core alignment algorithms and internals (under strategic classification)
 
-  - Phase/velocity/consistency tuning parameters
+  - Parameter sets for signal synchronization, velocity, and consistency tuning
 
   - Raw experiment logs, datasets, and reproducible pipelines
 
